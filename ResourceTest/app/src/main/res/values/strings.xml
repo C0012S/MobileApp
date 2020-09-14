@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourceTest</string>
+    <string name="my_name">Park, Sang-Hee</string>
+    <string name="my_text">hello</string>
+</resources>

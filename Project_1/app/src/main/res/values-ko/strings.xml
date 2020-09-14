@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">20181025 박상희</string>
+    <string name="btn_add_name">새 계정 등록</string>
+    <string name="btn_fin_name">종료</string>
+    <string name="btn_sign_up_name">등록</string>
+    <string name="btn_cancel_name">취소</string>
+    <string name="site_name">사이트 이름</string>
+    <string name="url_name">주소</string>
+    <string name="user_name">사용자 계정</string>
+    <string name="pwd_name">비밀번호</string>
+    <string name="pwd_check_name">비밀번호 확인</string>
+</resources>

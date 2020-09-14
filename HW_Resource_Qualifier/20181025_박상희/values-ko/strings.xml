@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">리소스 퀄리파이어 과제</string>
+
+    <string name="my_name">20181025 박상희</string>
+    <string name="check_name">글씨 크게</string>
+    <string name="radio_name1">빨간색</string>
+    <string name="radio_name2">초록색</string>
+    <string name="radio_name3">파란색</string>
+    <string name="toggle_off_name">선택 비활성화</string>
+    <string name="toggle_on_name">선택 활성화</string>
+</resources>

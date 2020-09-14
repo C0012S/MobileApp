@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_name"
+        android:textSize="@dimen/my_name_dimen1" />
+
+    <LinearLayout
+        android:id="@+id/config"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/cb_bigFont"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/check_name" />
+
+        <RadioGroup
+            android:id="@+id/rbg_colorGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <RadioButton
+                android:id="@+id/rb_red"
+                android:layout_width="@dimen/radio_width"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/radio_name1" />
+
+            <RadioButton
+                android:id="@+id/rb_green"
+                android:layout_width="@dimen/radio_width"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/radio_name2" />
+
+            <RadioButton
+                android:id="@+id/rb_blue"
+                android:layout_width="@dimen/radio_width"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/radio_name3" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <ToggleButton
+        android:id="@+id/tb_active"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:checked="@bool/toggle_checked"
+        android:textOff="@string/toggle_off_name"
+        android:textOn="@string/toggle_on_name" />
+</LinearLayout>

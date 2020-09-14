@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">20181025 Park Sang Hee</string>
+    <string name="btn_add_name">new account</string>
+    <string name="btn_fin_name">finish</string>
+    <string name="btn_sign_up_name">sign up</string>
+    <string name="btn_cancel_name">cancel</string>
+    <string name="site_name">Site Name</string>
+    <string name="url_name">URL</string>
+    <string name="user_name">User Account</string>
+    <string name="pwd_name">Password</string>
+    <string name="pwd_check_name">Password Check</string>
+</resources>

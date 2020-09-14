@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="maxId" value="3" />
+    <string name="name3">길동</string>
+    <string name="phone2"></string>
+    <string name="phone3">3333</string>
+    <string name="name2">홍</string>
+    <string name="name1">찬수</string>
+    <string name="phone1">123</string>
+</map>

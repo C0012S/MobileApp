@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW_Resource</string>
+
+    <string name="my_name">20181025 박상희</string>
+    <string name="check_name">Use Big Font</string>
+    <string name="radio_name1">Red</string>
+    <string name="radio_name2">Green</string>
+    <string name="radio_name3">Blue</string>
+    <string name="toggle_off_name">선택 비활성화</string>
+    <string name="toggle_on_name">선택 활성화</string>
+</resources>

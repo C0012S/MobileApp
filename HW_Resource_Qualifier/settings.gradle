@@ -1,0 +1,2 @@
+rootProject.name='HW_Resource_Qualifier'
+include ':app'
